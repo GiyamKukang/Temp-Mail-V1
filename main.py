@@ -1,6 +1,6 @@
-# copyright 2020-22 @Mohamed Rizad
-# Telegram @riz4d
-# Instagram @riz.4d
+# copyright 2023-23 @Kensar
+# Telegram @kensar
+# Instagram @kensar
 from pyrogram import *
 import requests as re
 from Config import *
